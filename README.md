@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Surarihan👋
 
-<!--
-**Bit-Offender/Bit-Offender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👤 Who I Am
+I'm a student and self-taught developer exploring web development, math, physics, cybersecurity, and building real projects to learn by doing.
 
-Here are some ideas to get you started:
+# 🔧 What I'm Currently Working On
+A small voice-recording app using Next.js + Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Improving my fundamentals in React, TypeScript, and authentication
+
+Building clean, simple interfaces with shadcn/ui and Framer Motion
+
+# Tools & Technologies I Use
+Next.js, React, TypeScript, JavaScript
+
+Tailwind CSS, shadcn/ui, Framer Motion
+
+Exploring Supabase, NextAuth, and async JS
+
+# 📫 How to Reach Me
+LinkedIn: www.linkedin.com/in/surarihan-sarkar
