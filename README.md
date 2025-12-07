@@ -1,12 +1,12 @@
 ## Hi, I'm Surarihan👋
 
 # 👤 Who I Am
-I'm a student and self-taught developer exploring web development, math, physics, cybersecurity, and building real projects to learn by doing.
+I'm a student and self-taught developer exploring web development and building real projects to learn by doing.
 
 # 🔧 What I'm Currently Working On
-A small voice-recording app using Next.js + Tailwind
+A finance tracker app with plans to put an AI agent using Next.js
 
-Improving my fundamentals in React, TypeScript, and authentication
+Improving my fundamentals in React, TypeScript
 
 Building clean, simple interfaces with shadcn/ui and Framer Motion
 
@@ -15,7 +15,7 @@ Next.js, React, TypeScript, JavaScript
 
 Tailwind CSS, shadcn/ui, Framer Motion
 
-Exploring Supabase, NextAuth, and async JS
+Exploring Supabase, NextAuth, JS fundamentals
 
 # 📫 How to Reach Me
 LinkedIn: www.linkedin.com/in/surarihan-sarkar
